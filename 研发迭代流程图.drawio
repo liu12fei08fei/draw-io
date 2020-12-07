@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T12:08:44.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="6cF9HX0IxuZUwvGAPdEk" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T12:14:30.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="i9TUmeICrFjfBg_Pd1lC" version="13.10.9" type="github">
   <diagram id="TA-FUFab7nw_JOYcnHtT" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,6 +104,42 @@
         </mxCell>
         <mxCell id="2TGBst09kyb7uebUgkE0-35" value="End" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="247.5" y="1050" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7xkqyvosI3lrS_u9Jpyt-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="60" width="50" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="7xkqyvosI3lrS_u9Jpyt-3" value="需求分析阶段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="125" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7xkqyvosI3lrS_u9Jpyt-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="156" y="230" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7xkqyvosI3lrS_u9Jpyt-6" value="概要设计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="245" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7xkqyvosI3lrS_u9Jpyt-7" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="460" y="390" width="50" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="7xkqyvosI3lrS_u9Jpyt-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="315" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7xkqyvosI3lrS_u9Jpyt-9" value="详细设计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="327.5" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7xkqyvosI3lrS_u9Jpyt-10" value="编码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="490" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7xkqyvosI3lrS_u9Jpyt-11" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="630" width="50" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7xkqyvosI3lrS_u9Jpyt-12" value="测试" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="690" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7xkqyvosI3lrS_u9Jpyt-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="457.5" y="790" width="50" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="7xkqyvosI3lrS_u9Jpyt-14" value="验收" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="895" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
