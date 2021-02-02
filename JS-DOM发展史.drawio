@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T02:43:23.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="0pAo90E3P_UW2W-tw4Zu" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T02:56:38.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="OCMFe7stBrScLWy8NFg0" version="14.2.6" type="github">
   <diagram id="Q89y7Z0jrOY_SJ53BKr0" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,14 @@
         <mxCell id="q12H7q9uytlVfHSGJCnB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="q12H7q9uytlVfHSGJCnB-1" target="q12H7q9uytlVfHSGJCnB-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q12H7q9uytlVfHSGJCnB-1" value="DOM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="25" width="70" height="30" as="geometry" />
+        <mxCell id="62U2gSdleWHu8dKYwmUc-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q12H7q9uytlVfHSGJCnB-1" target="62U2gSdleWHu8dKYwmUc-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62U2gSdleWHu8dKYwmUc-73" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q12H7q9uytlVfHSGJCnB-1" target="62U2gSdleWHu8dKYwmUc-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q12H7q9uytlVfHSGJCnB-1" value="DOM0级" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="45" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q12H7q9uytlVfHSGJCnB-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="q12H7q9uytlVfHSGJCnB-3" target="q12H7q9uytlVfHSGJCnB-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -23,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q12H7q9uytlVfHSGJCnB-3" value="DOM1级" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="85" width="70" height="30" as="geometry" />
+          <mxGeometry x="230" y="165" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q12H7q9uytlVfHSGJCnB-15" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="q12H7q9uytlVfHSGJCnB-5" target="q12H7q9uytlVfHSGJCnB-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -32,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q12H7q9uytlVfHSGJCnB-5" value="DOM Core" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="40" width="80" height="30" as="geometry" />
+          <mxGeometry x="360" y="120" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q12H7q9uytlVfHSGJCnB-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="q12H7q9uytlVfHSGJCnB-6" target="q12H7q9uytlVfHSGJCnB-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -41,22 +47,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q12H7q9uytlVfHSGJCnB-6" value="DOM HTML" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="135" width="80" height="30" as="geometry" />
+          <mxGeometry x="360" y="215" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q12H7q9uytlVfHSGJCnB-11" value="在DOM Core基础上，规定针对HTML的属性和方法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="110" width="180" height="35" as="geometry" />
+          <mxGeometry x="480" y="190" width="180" height="35" as="geometry" />
         </mxCell>
         <mxCell id="q12H7q9uytlVfHSGJCnB-13" value="规定类XML文档结构相关的访问和操作" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="10" width="130" height="40" as="geometry" />
+          <mxGeometry x="480" y="90" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q12H7q9uytlVfHSGJCnB-16" value="规定对类XML文档结构的增删改查" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="60" width="130" height="40" as="geometry" />
+          <mxGeometry x="480" y="140" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q12H7q9uytlVfHSGJCnB-19" value="在DOM Core基础上，规定针对HTML的增删改查，具象实例化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="155" width="180" height="35" as="geometry" />
+          <mxGeometry x="480" y="235" width="180" height="35" as="geometry" />
         </mxCell>
         <mxCell id="q12H7q9uytlVfHSGJCnB-21" value="目标：映射文档的结构" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="85" width="130" height="30" as="geometry" />
+          <mxGeometry x="60" y="165" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q12H7q9uytlVfHSGJCnB-23" target="q12H7q9uytlVfHSGJCnB-25">
           <mxGeometry relative="1" as="geometry" />
@@ -80,138 +86,138 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q12H7q9uytlVfHSGJCnB-23" value="DOM2级" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="230" y="276.25" width="70" height="30" as="geometry" />
+          <mxGeometry x="230" y="356.25" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q12H7q9uytlVfHSGJCnB-25" value="鼠标和用户界面事件、范围、遍历（迭代DOM文档的方法）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="70" y="240" width="120" height="55" as="geometry" />
+          <mxGeometry x="70" y="320" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-1" value="通过对象接口增加了对CSS的支持" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="304" width="120" height="38.5" as="geometry" />
+          <mxGeometry x="70" y="384" width="120" height="38.5" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62U2gSdleWHu8dKYwmUc-4" target="62U2gSdleWHu8dKYwmUc-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-4" value="DOM视图&lt;br&gt;（DOM Views）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="203.75" width="100" height="40" as="geometry" />
+          <mxGeometry x="480" y="283.75" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62U2gSdleWHu8dKYwmUc-6" target="62U2gSdleWHu8dKYwmUc-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-6" value="DOM事件&lt;br&gt;（DOM Events）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="252.75" width="100" height="40" as="geometry" />
+          <mxGeometry x="480" y="332.75" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62U2gSdleWHu8dKYwmUc-7" target="62U2gSdleWHu8dKYwmUc-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-7" value="DOM样式&lt;br&gt;（DOM Style）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="302" width="100" height="40" as="geometry" />
+          <mxGeometry x="480" y="382" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62U2gSdleWHu8dKYwmUc-8" target="62U2gSdleWHu8dKYwmUc-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-8" value="DOM遍历和范围" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="352" width="100" height="40" as="geometry" />
+          <mxGeometry x="480" y="432" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-13" value="定义了跟踪不同文档视图的接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="203.75" width="100" height="40" as="geometry" />
+          <mxGeometry x="620" y="283.75" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-15" value="定义了事件和事件处理的接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="252.75" width="100" height="40" as="geometry" />
+          <mxGeometry x="620" y="332.75" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-17" value="定义了基于CSS为元素应用样式的接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="302" width="120" height="40" as="geometry" />
+          <mxGeometry x="620" y="382" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-19" value="定义了遍历和操作文档树的接口" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="352" width="100" height="40" as="geometry" />
+          <mxGeometry x="620" y="432" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62U2gSdleWHu8dKYwmUc-22" target="62U2gSdleWHu8dKYwmUc-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-22" value="文档历史记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="208.75" width="80" height="30" as="geometry" />
+          <mxGeometry x="360" y="288.75" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="62U2gSdleWHu8dKYwmUc-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="273" as="targetPoint" />
+            <mxPoint x="510" y="353" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-23" value="JS相关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="257.75" width="80" height="30" as="geometry" />
+          <mxGeometry x="360" y="337.75" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62U2gSdleWHu8dKYwmUc-24" target="62U2gSdleWHu8dKYwmUc-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-24" value="CSS相关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="307" width="80" height="30" as="geometry" />
+          <mxGeometry x="360" y="387" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-34" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62U2gSdleWHu8dKYwmUc-25" target="62U2gSdleWHu8dKYwmUc-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-25" value="HTML相关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="357" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="62U2gSdleWHu8dKYwmUc-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62U2gSdleWHu8dKYwmUc-35" target="62U2gSdleWHu8dKYwmUc-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="62U2gSdleWHu8dKYwmUc-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62U2gSdleWHu8dKYwmUc-35" target="62U2gSdleWHu8dKYwmUc-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="62U2gSdleWHu8dKYwmUc-44" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62U2gSdleWHu8dKYwmUc-35" target="62U2gSdleWHu8dKYwmUc-40">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="360" y="437" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-45" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62U2gSdleWHu8dKYwmUc-35" target="62U2gSdleWHu8dKYwmUc-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="62U2gSdleWHu8dKYwmUc-60" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62U2gSdleWHu8dKYwmUc-35" target="62U2gSdleWHu8dKYwmUc-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62U2gSdleWHu8dKYwmUc-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62U2gSdleWHu8dKYwmUc-35" target="62U2gSdleWHu8dKYwmUc-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="62U2gSdleWHu8dKYwmUc-69" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62U2gSdleWHu8dKYwmUc-35" target="62U2gSdleWHu8dKYwmUc-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-35" value="DOM3级" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="475" width="70" height="30" as="geometry" />
+          <mxGeometry x="230" y="555" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-37" value="DOM扩展" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="473.25" width="80" height="33.5" as="geometry" />
+          <mxGeometry x="110" y="553.25" width="80" height="33.5" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62U2gSdleWHu8dKYwmUc-38" target="62U2gSdleWHu8dKYwmUc-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-38" value="定义了统一方式加载和保存文档的方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="410" width="80" height="50" as="geometry" />
+          <mxGeometry x="480" y="490" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62U2gSdleWHu8dKYwmUc-39" target="62U2gSdleWHu8dKYwmUc-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-39" value="新增了验证文档的方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="470" width="80" height="40" as="geometry" />
+          <mxGeometry x="480" y="550" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62U2gSdleWHu8dKYwmUc-40" target="62U2gSdleWHu8dKYwmUc-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="62U2gSdleWHu8dKYwmUc-40" value="对DOM Core进行了扩展" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="520" width="80" height="40" as="geometry" />
+          <mxGeometry x="360" y="600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="62U2gSdleWHu8dKYwmUc-53" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62U2gSdleWHu8dKYwmUc-46" target="62U2gSdleWHu8dKYwmUc-52">
+        <mxCell id="62U2gSdleWHu8dKYwmUc-46" value="在DOM加载和保存模块中定义&lt;br&gt;（DOM Load and Save）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="495" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="62U2gSdleWHu8dKYwmUc-48" value="在DOM验证模块中定义&lt;br&gt;（DOM Validation）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="550" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="62U2gSdleWHu8dKYwmUc-50" value="开始支持XML 1.0规范，涉及XML Infoset、XPath和XML Base" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="600" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="62U2gSdleWHu8dKYwmUc-61" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62U2gSdleWHu8dKYwmUc-59" target="62U2gSdleWHu8dKYwmUc-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="62U2gSdleWHu8dKYwmUc-46" value="在DOM加载和保存模块中定义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="415" width="110" height="40" as="geometry" />
+        <mxCell id="62U2gSdleWHu8dKYwmUc-59" value="文档级别的输入和输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="495" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="62U2gSdleWHu8dKYwmUc-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62U2gSdleWHu8dKYwmUc-48" target="62U2gSdleWHu8dKYwmUc-54">
+        <mxCell id="62U2gSdleWHu8dKYwmUc-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62U2gSdleWHu8dKYwmUc-62" target="62U2gSdleWHu8dKYwmUc-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="62U2gSdleWHu8dKYwmUc-48" value="在DOM验证模块中定义" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="470" width="110" height="40" as="geometry" />
+        <mxCell id="62U2gSdleWHu8dKYwmUc-62" value="表单验证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="550" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="62U2gSdleWHu8dKYwmUc-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="62U2gSdleWHu8dKYwmUc-50" target="62U2gSdleWHu8dKYwmUc-55">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="62U2gSdleWHu8dKYwmUc-70" value="只是DOM历史坐标的一个参照点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="62U2gSdleWHu8dKYwmUc-50" value="开始支持XML 1.0规范" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="520" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="62U2gSdleWHu8dKYwmUc-52" value="DOM Load and Save" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="415" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="62U2gSdleWHu8dKYwmUc-54" value="DOM Validation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="470" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="62U2gSdleWHu8dKYwmUc-55" value="涉及XML Infoset、XPath和XML Base" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="520" width="110" height="40" as="geometry" />
+        <mxCell id="62U2gSdleWHu8dKYwmUc-72" value="指的是Internet Explorer 4.0和Netscape Navigator 4.0最初支持的DHTML" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
