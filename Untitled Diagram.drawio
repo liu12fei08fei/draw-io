@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-01T02:19:00.658Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="p6lnW3aKUdAg9L8OVguS" version="14.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-01T02:23:49.709Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="8HWnGtuAdjvkuIY6pnHY" version="14.9.3" type="github">
   <diagram id="95uC0-5RRBxN5uwg9bys" name="Page-1">
     <mxGraphModel dx="786" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,6 +100,72 @@
         </mxCell>
         <mxCell id="xqMeAvLGvaLpMlTr5o7N-33" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="440" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xqMeAvLGvaLpMlTr5o7N-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqMeAvLGvaLpMlTr5o7N-58" target="xqMeAvLGvaLpMlTr5o7N-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqMeAvLGvaLpMlTr5o7N-58" value="接入监控区域内所有视频或在重要地点安装摄像头" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="163" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqMeAvLGvaLpMlTr5o7N-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqMeAvLGvaLpMlTr5o7N-60" target="xqMeAvLGvaLpMlTr5o7N-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqMeAvLGvaLpMlTr5o7N-60" value="非法加油车监测系统收集所有视频" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqMeAvLGvaLpMlTr5o7N-73" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqMeAvLGvaLpMlTr5o7N-62" target="xqMeAvLGvaLpMlTr5o7N-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqMeAvLGvaLpMlTr5o7N-62" value="收集所有具有违法行为的相关图片和视频，用于后续算法研发和测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="163" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqMeAvLGvaLpMlTr5o7N-75" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqMeAvLGvaLpMlTr5o7N-64" target="xqMeAvLGvaLpMlTr5o7N-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqMeAvLGvaLpMlTr5o7N-64" value="开发出满足需求的视频分析算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqMeAvLGvaLpMlTr5o7N-77" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xqMeAvLGvaLpMlTr5o7N-66" target="xqMeAvLGvaLpMlTr5o7N-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqMeAvLGvaLpMlTr5o7N-66" value="用算法对收集到的视频进行分析并进行违法统计和证据处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqMeAvLGvaLpMlTr5o7N-79" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqMeAvLGvaLpMlTr5o7N-68" target="xqMeAvLGvaLpMlTr5o7N-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqMeAvLGvaLpMlTr5o7N-68" value="进行人工验证，确定算法成功率满足需求进行实时视频分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqMeAvLGvaLpMlTr5o7N-80" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqMeAvLGvaLpMlTr5o7N-70" target="xqMeAvLGvaLpMlTr5o7N-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqMeAvLGvaLpMlTr5o7N-70" value="进行实时视频分析，进行违法统计和证据处理，同时发出警告信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqMeAvLGvaLpMlTr5o7N-72" value="警务人员进行证据确认和执法处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160.5" y="827.5" width="125" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xqMeAvLGvaLpMlTr5o7N-92" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqMeAvLGvaLpMlTr5o7N-84" target="xqMeAvLGvaLpMlTr5o7N-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqMeAvLGvaLpMlTr5o7N-84" value="确定重要进出口，并接入和收集相关视频信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqMeAvLGvaLpMlTr5o7N-85" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqMeAvLGvaLpMlTr5o7N-86" target="xqMeAvLGvaLpMlTr5o7N-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqMeAvLGvaLpMlTr5o7N-86" value="进行车型分析，和车辆出入次数分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqMeAvLGvaLpMlTr5o7N-93" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xqMeAvLGvaLpMlTr5o7N-88" target="xqMeAvLGvaLpMlTr5o7N-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xqMeAvLGvaLpMlTr5o7N-88" value="对满足要求的违法车辆进行统计并列为执法重点排查对象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="404" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xqMeAvLGvaLpMlTr5o7N-90" value="执法人员根据提供的重点排查对象进行执法安排" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1060" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
