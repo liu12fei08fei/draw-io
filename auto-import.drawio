@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-24T03:39:14.779Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="48smnv2ZIuUROwyiELIu" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-24T06:46:25.576Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="szHGj-fiQBMxQqmLLC6T" version="23.1.6" type="github">
   <diagram name="第 1 页" id="kTx8fw38r4h68Fi3cjJw">
     <mxGraphModel dx="1114" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,6 +57,51 @@
         </mxCell>
         <mxCell id="1NXMRHy0XZD6BR51wPQI-21" value="转换成&lt;br&gt;新的源代码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="492" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1NXMRHy0XZD6BR51wPQI-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1NXMRHy0XZD6BR51wPQI-23" target="1NXMRHy0XZD6BR51wPQI-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NXMRHy0XZD6BR51wPQI-23" value="客户端&lt;br&gt;网络请求" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="660" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1NXMRHy0XZD6BR51wPQI-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1NXMRHy0XZD6BR51wPQI-25" target="1NXMRHy0XZD6BR51wPQI-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NXMRHy0XZD6BR51wPQI-25" value="本地服务端&lt;br&gt;劫持文件加工" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="660" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1NXMRHy0XZD6BR51wPQI-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1NXMRHy0XZD6BR51wPQI-27" target="1NXMRHy0XZD6BR51wPQI-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NXMRHy0XZD6BR51wPQI-27" value="利用babel&lt;br&gt;手写转换插件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="660" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1NXMRHy0XZD6BR51wPQI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1NXMRHy0XZD6BR51wPQI-32" target="1NXMRHy0XZD6BR51wPQI-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NXMRHy0XZD6BR51wPQI-32" value="利用babel&lt;br&gt;手写转换插件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="720" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1NXMRHy0XZD6BR51wPQI-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1NXMRHy0XZD6BR51wPQI-34" target="1NXMRHy0XZD6BR51wPQI-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NXMRHy0XZD6BR51wPQI-34" value="没有引入&lt;br&gt;源代码文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="660" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1NXMRHy0XZD6BR51wPQI-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1NXMRHy0XZD6BR51wPQI-36" target="1NXMRHy0XZD6BR51wPQI-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NXMRHy0XZD6BR51wPQI-36" value="有引入依赖包&lt;br&gt;的代码文件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="720" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1NXMRHy0XZD6BR51wPQI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1NXMRHy0XZD6BR51wPQI-38" target="1NXMRHy0XZD6BR51wPQI-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1NXMRHy0XZD6BR51wPQI-38" value="通过网络请求&lt;br&gt;返回给客户端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="720" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1NXMRHy0XZD6BR51wPQI-40" value="客户端渲染&lt;br&gt;可识别的代码包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="720" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
